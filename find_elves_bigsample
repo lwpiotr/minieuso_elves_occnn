@@ -1,0 +1,1 @@
+/home/lewhoo/workspace/minieuso_elves_cnn/pytorch/find_elves_occnn_wholedir.py /home/lewhoo/workspace/minieuso_elves_cnn/pytorch/res_batchsize8_allelvestrain_and_std_bg_centre2/curve_snapshot_epoch0.model tle_occnn_results_bigsample0.txt

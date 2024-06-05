@@ -1,0 +1,7 @@
+1. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+2. The software may be freely copied, used and modified for any unpublished purposes.
+
+3. The author of the software (Lech Wiktor Piotrowski) has to be notified of any public non-commercial use of the software or any derived work, or implemented ideas, or publication of such. Publications include, but are not limited to, publications in software repositories or article.
+
+4. Any commercial use of the sofware or implemented ideas require separate permission from the author.
